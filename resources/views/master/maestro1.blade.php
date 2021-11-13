@@ -1,0 +1,5 @@
+@include('plantilla1.cabeza')
+@include('plantilla1.contenido')
+@include('plantilla1.navegar')
+@include('plantilla1.barra')
+@include('plantilla1.pie')
